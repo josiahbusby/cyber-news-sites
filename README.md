@@ -1,8 +1,8 @@
 General cyber news <br/>
-https://thehackernews.com/
-https://news.risky.biz/
-https://www.bleepingcomputer.com/
+https://thehackernews.com/ <br/>
+https://news.risky.biz/ <br/>
+https://www.bleepingcomputer.com/ <br/>
 
 
-Compilation of news
+Compilation of news <br/>
 https://www.bleepingcomputer.com/
