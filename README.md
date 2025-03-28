@@ -1,4 +1,4 @@
-General cyber news
+General cyber news/n
 https://thehackernews.com/
 https://news.risky.biz/
 https://www.bleepingcomputer.com/
